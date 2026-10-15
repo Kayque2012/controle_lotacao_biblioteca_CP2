@@ -4,7 +4,7 @@ Aplicativo desenvolvido em Flutter para gerenciar a entrada e a saída de pessoa
 
 ## Demonstração
 
-▶️ **Vídeo de demonstração:** [Assistir à demonstração no YouTube](LINK)
+▶️ **Vídeo de demonstração:** [Assistir à demonstração no YouTube](https://youtu.be/Xb8G2HwTZEk?is=H30vfQItRoc8mkd9)
 
 
 ## Funcionalidades
